@@ -102,3 +102,22 @@ button {
   display: block;
   margin-bottom: 30px;
 }
+
+/* Bottom Section */
+
+.sect-three {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
+.wrapper-two {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  height: 75vh;
+}
+
+footer {
+  margin-top: 7%;
+}
